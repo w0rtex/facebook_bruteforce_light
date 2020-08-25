@@ -6,8 +6,12 @@ To use FB Bruteforce light you should have pip fbchat and python3 installed. To 
 <code>$ pip install fbchat</code> 
 to install it.
 
-When you have fbchat and python3 installed you should clone this repository to your local (run in terminal 
+When you have fbchat and python3 installed you should clone this repository to your local
+<br>
 <code>$ git clone https://github.com/w0rtex/facebook_bruteforce_light.git</code>
+<br>
 Then go to directory where you cloned it and run.
-<code>python FBBruteForce.py</code>.
-And then just follow the instructions.
+<br>
+<code>python FBBruteForce.py</code>
+<br>
+And follow the instructions.
