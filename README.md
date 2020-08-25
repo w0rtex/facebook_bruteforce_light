@@ -8,10 +8,14 @@ to install it.
 
 When you have fbchat and python3 installed you should clone this repository to your local
 <br>
+
 <code>$ git clone https://github.com/w0rtex/facebook_bruteforce_light.git</code>
+
 <br>
 Then go to directory where you cloned it and run.
 <br>
+
 <code>python FBBruteForce.py</code>
+
 <br>
 And follow the instructions.
