@@ -5,8 +5,8 @@ username = input("Enter username of target (email, phone, etc): ")
 passwd_list = input("Enter the name of file containing the passwords: ")
 
 i = 0
-
 bool = True
+
 arr = open(passwd_list,'r').read().  split('\n')
 
 while bool == True:
